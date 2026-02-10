@@ -5,11 +5,11 @@ Using Natural Language Processing (NLP) techniques, the system classifies review
 The goal is to help restaurants understand customer opinions and improve service quality.
 
 •Technologies Used
-Python
-Natural Language Processing (NLP)
-Pandas, NumPy
-Scikit-learn
-TF-IDF / Bag of Words
+Python,
+Natural Language Processing (NLP),
+Pandas, NumPy,
+Scikit-learn,
+TF-IDF,
 Matplotlib / Seaborn (for visualization)
 
 •Dataset
