@@ -1,4 +1,4 @@
-RESTAURANT REVIE SENTIMENT TOOL - CLASSIFY CUSTOMER REVIEWS
+RESTAURANT REVIEW SENTIMENT TOOL - CLASSIFY CUSTOMER REVIEWS
 
 This project focuses on analyzing customer reviews of restaurants to determine overall sentiment.
 Using Natural Language Processing (NLP) techniques, the system classifies reviews into positive, negative, or neutral categories. 
